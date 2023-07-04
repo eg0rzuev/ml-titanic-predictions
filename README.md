@@ -9,4 +9,4 @@ regression, decision tree, random forest, gradient boosting,
 and MLP, the project aims to build accurate models that can
 classify passengers into survivors and non-survivors.
 
-The code and the execution steps are in this [notebook](visualization_titanic.ipynb)
+The code and the execution steps are described in this [notebook](visualization_titanic.ipynb), while this is a complete [report](report.pdf) 
